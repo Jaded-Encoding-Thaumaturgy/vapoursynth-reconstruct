@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/Python/Python310/include",
+                "E:/Cache/Repositories/vapoursynth/include",
+                "E:/Cache/Repositories/vapoursynth/src/core"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "VS_TARGET_OS_WINDOWS",
+                "VS_TARGET_CPU_X86"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "cStandard": "c17"
+        }
+    ],
+    "version": 4
+}
